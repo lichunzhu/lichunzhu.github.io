@@ -5,9 +5,9 @@
   <subtitle>晚来天欲雪，能饮一杯无？</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="lichunzhu.top/"/>
+  <link href="lichunzhu.github.io/"/>
   <updated>2020-01-10T16:21:15.376Z</updated>
-  <id>lichunzhu.top/</id>
+  <id>lichunzhu.github.io/</id>
   
   <author>
     <name>Chauncy</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>LeetCode 805: Split Array With Same Average</title>
-    <link href="lichunzhu.top/2019/04/22/2019-4-22-LeetCode-Problem-805/"/>
-    <id>lichunzhu.top/2019/04/22/2019-4-22-LeetCode-Problem-805/</id>
+    <link href="lichunzhu.github.io/2019/04/22/2019-4-22-LeetCode-Problem-805/"/>
+    <id>lichunzhu.github.io/2019/04/22/2019-4-22-LeetCode-Problem-805/</id>
     <published>2019-04-21T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.376Z</updated>
     
@@ -35,16 +35,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 446: Arithmetic Slices II - Subsequence</title>
-    <link href="lichunzhu.top/2019/04/21/2019-4-21-LeetCode-Problem-446/"/>
-    <id>lichunzhu.top/2019/04/21/2019-4-21-LeetCode-Problem-446/</id>
+    <link href="lichunzhu.github.io/2019/04/21/2019-4-21-LeetCode-Problem-446/"/>
+    <id>lichunzhu.github.io/2019/04/21/2019-4-21-LeetCode-Problem-446/</id>
     <published>2019-04-20T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.376Z</updated>
     
@@ -60,16 +60,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 1000: Minimum Cost to Merge Stones</title>
-    <link href="lichunzhu.top/2019/03/04/2019-3-4-LeetCode-Problem-1000/"/>
-    <id>lichunzhu.top/2019/03/04/2019-3-4-LeetCode-Problem-1000/</id>
+    <link href="lichunzhu.github.io/2019/03/04/2019-3-4-LeetCode-Problem-1000/"/>
+    <id>lichunzhu.github.io/2019/03/04/2019-3-4-LeetCode-Problem-1000/</id>
     <published>2019-03-03T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.376Z</updated>
     
@@ -85,16 +85,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 172: Factorial Trailing Zeroes</title>
-    <link href="lichunzhu.top/2019/02/25/2019-2-25-LeetCode-Problem-172/"/>
-    <id>lichunzhu.top/2019/02/25/2019-2-25-LeetCode-Problem-172/</id>
+    <link href="lichunzhu.github.io/2019/02/25/2019-2-25-LeetCode-Problem-172/"/>
+    <id>lichunzhu.github.io/2019/02/25/2019-2-25-LeetCode-Problem-172/</id>
     <published>2019-02-24T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.376Z</updated>
     
@@ -110,16 +110,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="数学" scheme="lichunzhu.top/tags/%E6%95%B0%E5%AD%A6/"/>
+      <category term="数学" scheme="lichunzhu.github.io/tags/%E6%95%B0%E5%AD%A6/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 992: Subarrays with K Different Integers</title>
-    <link href="lichunzhu.top/2019/02/18/2019-2-18-LeetCode-Problem-992/"/>
-    <id>lichunzhu.top/2019/02/18/2019-2-18-LeetCode-Problem-992/</id>
+    <link href="lichunzhu.github.io/2019/02/18/2019-2-18-LeetCode-Problem-992/"/>
+    <id>lichunzhu.github.io/2019/02/18/2019-2-18-LeetCode-Problem-992/</id>
     <published>2019-02-17T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.376Z</updated>
     
@@ -135,16 +135,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="滑窗" scheme="lichunzhu.top/tags/%E6%BB%91%E7%AA%97/"/>
+      <category term="滑窗" scheme="lichunzhu.github.io/tags/%E6%BB%91%E7%AA%97/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 218: The Skyline Problem</title>
-    <link href="lichunzhu.top/2019/01/29/2019-1-29-LeetCode-Problem-218/"/>
-    <id>lichunzhu.top/2019/01/29/2019-1-29-LeetCode-Problem-218/</id>
+    <link href="lichunzhu.github.io/2019/01/29/2019-1-29-LeetCode-Problem-218/"/>
+    <id>lichunzhu.github.io/2019/01/29/2019-1-29-LeetCode-Problem-218/</id>
     <published>2019-01-28T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.376Z</updated>
     
@@ -160,16 +160,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="几何" scheme="lichunzhu.top/tags/%E5%87%A0%E4%BD%95/"/>
+      <category term="几何" scheme="lichunzhu.github.io/tags/%E5%87%A0%E4%BD%95/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 719: Find K-th Smallest Pair Distance</title>
-    <link href="lichunzhu.top/2019/01/19/2019-1-19-LeetCode-Problem-719/"/>
-    <id>lichunzhu.top/2019/01/19/2019-1-19-LeetCode-Problem-719/</id>
+    <link href="lichunzhu.github.io/2019/01/19/2019-1-19-LeetCode-Problem-719/"/>
+    <id>lichunzhu.github.io/2019/01/19/2019-1-19-LeetCode-Problem-719/</id>
     <published>2019-01-18T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.375Z</updated>
     
@@ -185,16 +185,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="二分" scheme="lichunzhu.top/tags/%E4%BA%8C%E5%88%86/"/>
+      <category term="二分" scheme="lichunzhu.github.io/tags/%E4%BA%8C%E5%88%86/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 903: Valid Permutations for DI Sequence</title>
-    <link href="lichunzhu.top/2019/01/02/2019-1-2-LeetCode-Problem-903/"/>
-    <id>lichunzhu.top/2019/01/02/2019-1-2-LeetCode-Problem-903/</id>
+    <link href="lichunzhu.github.io/2019/01/02/2019-1-2-LeetCode-Problem-903/"/>
+    <id>lichunzhu.github.io/2019/01/02/2019-1-2-LeetCode-Problem-903/</id>
     <published>2019-01-01T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.375Z</updated>
     
@@ -210,16 +210,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>Word，endnote使用小结</title>
-    <link href="lichunzhu.top/2018/12/25/2018-12-25-research-word-skills/"/>
-    <id>lichunzhu.top/2018/12/25/2018-12-25-research-word-skills/</id>
+    <link href="lichunzhu.github.io/2018/12/25/2018-12-25-research-word-skills/"/>
+    <id>lichunzhu.github.io/2018/12/25/2018-12-25-research-word-skills/</id>
     <published>2018-12-24T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.375Z</updated>
     
@@ -235,14 +235,14 @@
     </summary>
     
     
-      <category term="科研" scheme="lichunzhu.top/tags/%E7%A7%91%E7%A0%94/"/>
+      <category term="科研" scheme="lichunzhu.github.io/tags/%E7%A7%91%E7%A0%94/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 913: Cat and Mouse</title>
-    <link href="lichunzhu.top/2018/12/24/2018-12-24-LeetCode-problem-913/"/>
-    <id>lichunzhu.top/2018/12/24/2018-12-24-LeetCode-problem-913/</id>
+    <link href="lichunzhu.github.io/2018/12/24/2018-12-24-LeetCode-problem-913/"/>
+    <id>lichunzhu.github.io/2018/12/24/2018-12-24-LeetCode-problem-913/</id>
     <published>2018-12-23T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.375Z</updated>
     
@@ -258,18 +258,18 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="图论" scheme="lichunzhu.top/tags/%E5%9B%BE%E8%AE%BA/"/>
+      <category term="图论" scheme="lichunzhu.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
     
-      <category term="博弈" scheme="lichunzhu.top/tags/%E5%8D%9A%E5%BC%88/"/>
+      <category term="博弈" scheme="lichunzhu.github.io/tags/%E5%8D%9A%E5%BC%88/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 964: Least Operators to Express Number</title>
-    <link href="lichunzhu.top/2018/12/23/2018-12-23-LeetCode-problem-964/"/>
-    <id>lichunzhu.top/2018/12/23/2018-12-23-LeetCode-problem-964/</id>
+    <link href="lichunzhu.github.io/2018/12/23/2018-12-23-LeetCode-problem-964/"/>
+    <id>lichunzhu.github.io/2018/12/23/2018-12-23-LeetCode-problem-964/</id>
     <published>2018-12-22T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.375Z</updated>
     
@@ -285,16 +285,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 920: Number of Music Playlists</title>
-    <link href="lichunzhu.top/2018/12/17/2018-12-17-LeetCode-problem-920/"/>
-    <id>lichunzhu.top/2018/12/17/2018-12-17-LeetCode-problem-920/</id>
+    <link href="lichunzhu.github.io/2018/12/17/2018-12-17-LeetCode-problem-920/"/>
+    <id>lichunzhu.github.io/2018/12/17/2018-12-17-LeetCode-problem-920/</id>
     <published>2018-12-16T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.375Z</updated>
     
@@ -310,16 +310,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode Weekly Contest 115</title>
-    <link href="lichunzhu.top/2018/12/16/2018-12-16-LeetCode-contest-115/"/>
-    <id>lichunzhu.top/2018/12/16/2018-12-16-LeetCode-contest-115/</id>
+    <link href="lichunzhu.github.io/2018/12/16/2018-12-16-LeetCode-contest-115/"/>
+    <id>lichunzhu.github.io/2018/12/16/2018-12-16-LeetCode-contest-115/</id>
     <published>2018-12-15T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.374Z</updated>
     
@@ -335,24 +335,24 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
-      <category term="智力" scheme="lichunzhu.top/tags/%E6%99%BA%E5%8A%9B/"/>
+      <category term="智力" scheme="lichunzhu.github.io/tags/%E6%99%BA%E5%8A%9B/"/>
     
-      <category term="树" scheme="lichunzhu.top/tags/%E6%A0%91/"/>
+      <category term="树" scheme="lichunzhu.github.io/tags/%E6%A0%91/"/>
     
-      <category term="图论" scheme="lichunzhu.top/tags/%E5%9B%BE%E8%AE%BA/"/>
+      <category term="图论" scheme="lichunzhu.github.io/tags/%E5%9B%BE%E8%AE%BA/"/>
     
-      <category term="并查集" scheme="lichunzhu.top/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
+      <category term="并查集" scheme="lichunzhu.github.io/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 927: three equal parts</title>
-    <link href="lichunzhu.top/2018/12/13/2018-12-13-LeetCode-problem-927/"/>
-    <id>lichunzhu.top/2018/12/13/2018-12-13-LeetCode-problem-927/</id>
+    <link href="lichunzhu.github.io/2018/12/13/2018-12-13-LeetCode-problem-927/"/>
+    <id>lichunzhu.github.io/2018/12/13/2018-12-13-LeetCode-problem-927/</id>
     <published>2018-12-12T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.374Z</updated>
     
@@ -368,16 +368,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="智力" scheme="lichunzhu.top/tags/%E6%99%BA%E5%8A%9B/"/>
+      <category term="智力" scheme="lichunzhu.github.io/tags/%E6%99%BA%E5%8A%9B/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 930: binary subarrays with sum</title>
-    <link href="lichunzhu.top/2018/12/13/2018-12-13-LeetCode-problem-930/"/>
-    <id>lichunzhu.top/2018/12/13/2018-12-13-LeetCode-problem-930/</id>
+    <link href="lichunzhu.github.io/2018/12/13/2018-12-13-LeetCode-problem-930/"/>
+    <id>lichunzhu.github.io/2018/12/13/2018-12-13-LeetCode-problem-930/</id>
     <published>2018-12-12T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.374Z</updated>
     
@@ -393,16 +393,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="智力" scheme="lichunzhu.top/tags/%E6%99%BA%E5%8A%9B/"/>
+      <category term="智力" scheme="lichunzhu.github.io/tags/%E6%99%BA%E5%8A%9B/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 932: beautiful array</title>
-    <link href="lichunzhu.top/2018/12/12/2018-12-12-LeetCode-problem-932/"/>
-    <id>lichunzhu.top/2018/12/12/2018-12-12-LeetCode-problem-932/</id>
+    <link href="lichunzhu.github.io/2018/12/12/2018-12-12-LeetCode-problem-932/"/>
+    <id>lichunzhu.github.io/2018/12/12/2018-12-12-LeetCode-problem-932/</id>
     <published>2018-12-11T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.374Z</updated>
     
@@ -418,16 +418,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="构造" scheme="lichunzhu.top/tags/%E6%9E%84%E9%80%A0/"/>
+      <category term="构造" scheme="lichunzhu.github.io/tags/%E6%9E%84%E9%80%A0/"/>
     
   </entry>
   
   <entry>
     <title>LeetCode 956: tallest billboard</title>
-    <link href="lichunzhu.top/2018/12/10/2018-12-10-LeetCode-problem-956/"/>
-    <id>lichunzhu.top/2018/12/10/2018-12-10-LeetCode-problem-956/</id>
+    <link href="lichunzhu.github.io/2018/12/10/2018-12-10-LeetCode-problem-956/"/>
+    <id>lichunzhu.github.io/2018/12/10/2018-12-10-LeetCode-problem-956/</id>
     <published>2018-12-09T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.374Z</updated>
     
@@ -443,16 +443,16 @@
     </summary>
     
     
-      <category term="算法" scheme="lichunzhu.top/tags/%E7%AE%97%E6%B3%95/"/>
+      <category term="算法" scheme="lichunzhu.github.io/tags/%E7%AE%97%E6%B3%95/"/>
     
-      <category term="动态规划" scheme="lichunzhu.top/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+      <category term="动态规划" scheme="lichunzhu.github.io/tags/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>Welcome to Chauncy Blog</title>
-    <link href="lichunzhu.top/2018/12/07/2018-12-07-hello-blog/"/>
-    <id>lichunzhu.top/2018/12/07/2018-12-07-hello-blog/</id>
+    <link href="lichunzhu.github.io/2018/12/07/2018-12-07-hello-blog/"/>
+    <id>lichunzhu.github.io/2018/12/07/2018-12-07-hello-blog/</id>
     <published>2018-12-06T16:00:00.000Z</published>
     <updated>2020-01-10T16:21:15.374Z</updated>
     
@@ -471,7 +471,7 @@
     </summary>
     
     
-      <category term="生活" scheme="lichunzhu.top/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="lichunzhu.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
